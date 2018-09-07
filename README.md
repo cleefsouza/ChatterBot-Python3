@@ -1,7 +1,7 @@
 # ChatterBot-Python3
-Development of a chatterbot in python 3 for simple conversation
+Desenvolvimento de um simples chatterbot em python 3 para conversas.
 
-## Libraries
-<b>Until now:</b><br>
+## Bibliotecas
+<b>Usadas no momento:</b><br>
 <i>.ChatterBot<br>
 .OS</i>
