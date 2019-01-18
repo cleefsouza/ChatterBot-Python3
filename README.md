@@ -1,4 +1,4 @@
-# ChatterBot-Python3
+# chatterbot-python
 Desenvolvimento de um simples chatterbot em python 3 para conversas.
 
 ## Bibliotecas
